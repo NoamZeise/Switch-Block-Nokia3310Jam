@@ -9,6 +9,11 @@ It reads the xml and contructs the data structures to contain the information fo
 
 Animation contains simple classes for scrolling/static backgrounds
 
-Managers/Collision Manager handles collisions between colliders
+Managers/Collision Manager handles collisions between colliders on the map and any sprite
 
 Sprite is mainly just for the player, I originally intended for there to be more sprites.
+
+Control/Camera handles following a sprite with a transform matrix that stays within map bounds,
+as well as scaling the 84x48 resolution up properly so there is no stretching etc.
+
+Controls/Input is to allow for multiple buttons to be registered as the same input 
