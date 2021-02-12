@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/noam4/source/repos/Nokia3310Jam/Nokia3310Jam/Content/Paralax/cloudBackground.png</File>
+    <File>C:/Users/noam4/source/repos/Nokia3310Jam/Nokia3310Jam/Content/Paralax/cloudBackground2.png</File>
+    <File>C:/Users/noam4/source/repos/Nokia3310Jam/Nokia3310Jam/Content/Paralax/Controls1.png</File>
+    <File>C:/Users/noam4/source/repos/Nokia3310Jam/Nokia3310Jam/Content/Paralax/Controls2.png</File>
+    <File>C:/Users/noam4/source/repos/Nokia3310Jam/Nokia3310Jam/Content/Paralax/mountainBackground.png</File>
+    <File>C:/Users/noam4/source/repos/Nokia3310Jam/Nokia3310Jam/Content/Paralax/pause1.png</File>
+    <File>C:/Users/noam4/source/repos/Nokia3310Jam/Nokia3310Jam/Content/Paralax/pause2.png</File>
+    <File>C:/Users/noam4/source/repos/Nokia3310Jam/Nokia3310Jam/Content/Paralax/smallHill.png</File>
+    <File>C:/Users/noam4/source/repos/Nokia3310Jam/Nokia3310Jam/Content/Paralax/thanks.png</File>
+    <File>C:/Users/noam4/source/repos/Nokia3310Jam/Nokia3310Jam/Content/Sprites/Player/jump.wav</File>
+    <File>C:/Users/noam4/source/repos/Nokia3310Jam/Nokia3310Jam/Content/Sprites/Player/playerJump.png</File>
+    <File>C:/Users/noam4/source/repos/Nokia3310Jam/Nokia3310Jam/Content/Tilesets/spawnSprites.png</File>
+    <File>C:/Users/noam4/source/repos/Nokia3310Jam/Nokia3310Jam/Content/Tilesets/switchBlocks.png</File>
+    <File>C:/Users/noam4/source/repos/Nokia3310Jam/Nokia3310Jam/Content/Tilesets/tileset1.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

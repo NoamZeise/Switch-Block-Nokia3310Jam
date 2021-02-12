@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/noam4/source/repos/Nokia3310Jam/Nokia3310Jam/Content/Sprites/Player/jump.wav</SourceFile>
+  <SourceTime>2021-02-03T22:21:00.5243338+00:00</SourceTime>
+  <DestFile>C:/Users/noam4/source/repos/Nokia3310Jam/Nokia3310Jam/Content/bin/DesktopGL/Sprites/Player/jump.xnb</DestFile>
+  <DestTime>2021-02-04T22:52:20.1836403+00:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T16:35:54+00:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T16:35:54+00:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
